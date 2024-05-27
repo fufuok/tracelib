@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/kanocz/tracelib"
+	"github.com/fufuok/tracelib"
 )
 
 func printStep(hop tracelib.Hop, num int, round int) {

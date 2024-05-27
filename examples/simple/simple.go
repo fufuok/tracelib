@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/kanocz/tracelib"
+	"github.com/fufuok/tracelib"
 )
 
 func main() {

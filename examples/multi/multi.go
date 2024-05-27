@@ -2,11 +2,10 @@ package main
 
 import (
 	"fmt"
+	"strings"
 	"time"
 
-	"strings"
-
-	"github.com/kanocz/tracelib"
+	"github.com/fufuok/tracelib"
 )
 
 func main() {

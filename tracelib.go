@@ -17,10 +17,10 @@ const (
 	ProtocolICMP = 1
 	// ProtocolICMP6 icmp protocol id
 	ProtocolICMP6 = 58
-
-	// MaxTimeouts sets number of hops without replay before trace termination
-	MaxTimeouts = 3
 )
+
+// MaxTimeouts sets number of hops without replay before trace termination
+var MaxTimeouts = 3
 
 // trace struct represents handles connections and info for trace
 type trace struct {

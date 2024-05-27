@@ -6,7 +6,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/kanocz/tracelib"
+	"github.com/fufuok/tracelib"
 )
 
 type mtrhHost struct {
